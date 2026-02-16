@@ -60,5 +60,10 @@ Aprenderás haciendo, no solo escuchando:
 - **Modalidad:** Virtual  
 - **Costo:** 300 soles
   
-![alt text](/home/henry/Desktop/1.UNAC/1.UNAC_CURSOS/10.UNAC_INTRODUCTION_TO_SCIENTIFIC_PROGRAMMING_LENGUAGES/27.Lectures_Porque_Aprender_Machine_Learning/CURSO_AI
-/AI.png "Title")
+<p align="center">
+<img
+  src="https://github.com/hrmoncada/Epidemic-Model-SIR-CHAGAS/blob/main/LaTex/pictures/imagen_6.jpg"
+  alt="Alt text"
+  title="Genetic Modification of the bacterial symbionts"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+</p>
