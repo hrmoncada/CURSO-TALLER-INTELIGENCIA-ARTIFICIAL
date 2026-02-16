@@ -1,6 +1,4 @@
-# CURSO-TALLER-INTELIGENCIA-ARTIFICIAL
-
-## Curso: Inteligencia Artificial Aplicada a la Docencia Escolar
+# Curso: Inteligencia Artificial Aplicada a la Docencia Escolar
 
 La educación está cambiando, y los docentes que se anticipan a ese cambio son quienes lideran el futuro. Hoy, la Inteligencia Artificial (IA) ya no es una tecnología lejana ni exclusiva de especialistas en informática: forma parte de nuestro entorno cotidiano y comienza a integrarse en nuestras aulas, en nuestras decisiones pedagógicas y en la manera en que diseñamos experiencias de aprendizaje.
 
@@ -12,9 +10,9 @@ A lo largo del programa, los participantes aprenderán a utilizar herramientas d
 
 Transformar la enseñanza con IA no significa reemplazar al docente, sino potenciar su capacidad creativa, estratégica y humana. Este curso propone justamente eso: convertir la inteligencia artificial en una aliada pedagógica al servicio de una educación más inclusiva, innovadora y significativa.
 
-# Inteligencia Artificial Aplicada a la Docencia Escolar
-
 Por eso nace este curso:
+
+# Inteligencia Artificial Aplicada a la Docencia Escolar
 
 Un programa **100% virtual, práctico y transformador**, diseñado especialmente para docentes de primaria y secundaria que desean:
 
