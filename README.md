@@ -1,4 +1,4 @@
-# Curso: Inteligencia Artificial Aplicada a la Docencia Escolar
+# Curso: Inteligencia Artificial Aplicada a la Docencia Escolar [UNESCO](https://www.unesco.org/es/digital-education/artificial-intelligence)
 
 La educación está cambiando, y los docentes que se anticipan a ese cambio son quienes lideran el futuro. Hoy, la Inteligencia Artificial (IA) ya no es una tecnología lejana ni exclusiva de especialistas en informática: forma parte de nuestro entorno cotidiano y comienza a integrarse en nuestras aulas, en nuestras decisiones pedagógicas y en la manera en que diseñamos experiencias de aprendizaje.
 
