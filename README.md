@@ -1,1 +1,1 @@
-# Curso-Taller-Inteligencia-Artificial-
+# CURSO-TALLER-INTELIGENCIA-ARTIFICIAL
