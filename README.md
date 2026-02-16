@@ -58,4 +58,7 @@ Aprenderás haciendo, no solo escuchando:
 - **Horario:** sábados y domingos de 9:00 a.m. a 12:00 m.  
 - **Duración:** 8 sesiones  
 - **Modalidad:** Virtual  
-- **Costo:** 300 soles  
+- **Costo:** 300 soles
+  
+![alt text](/home/henry/Desktop/1.UNAC/1.UNAC_CURSOS/10.UNAC_INTRODUCTION_TO_SCIENTIFIC_PROGRAMMING_LENGUAGES/27.Lectures_Porque_Aprender_Machine_Learning/CURSO_AI
+/AI.png "Title")
