@@ -67,3 +67,27 @@ Aprenderás haciendo, no solo escuchando:
   title="Genetic Modification of the bacterial symbionts"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
+## Bibliography
+
+1. Russell, S., & Norvig, P. (2010).  
+   **Artificial Intelligence: A Modern Approach** (3rd ed.).  
+   Prentice Hall.  
+   Available at: http://aima.cs.berkeley.edu/
+
+2. Ricci, F., Rokach, L., & Shapira, B. (Eds.). (2015).  
+   **Recommender Systems Handbook** (2nd ed.).  
+   Springer.
+
+3. Jensen, F., & Nielsen, T. (2007).  
+   **Bayesian Networks and Decision Graphs** (2nd ed.).  
+   Springer-Verlag.  
+   Available at: http://bndg.cs.aau.dk/
+
+4. Leake, D. (Ed.). (1996).  
+   **Case-Based Reasoning**.  
+   MIT Press.
+
+5. Mitchell, T. (1997).  
+   **Machine Learning**.  
+   McGraw-Hill.  
+   Available at: http://www.cs.cmu.edu/~tom/mlbook.html
