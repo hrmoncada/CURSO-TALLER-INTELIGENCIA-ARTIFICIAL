@@ -68,6 +68,46 @@ Aprenderás haciendo, no solo escuchando:
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
 
+## ¿POR QUÉ LLEVAR EL TALLER?
+
+Este taller es una oportunidad única para formarte en una de las tecnologías más relevantes del presente y del futuro: la Inteligencia Artificial aplicada al marketing digital y la creación audiovisual.
+
+### ✔ Docente Practitioner
+Más de 25 años de experiencia en el mercado digital, combinando trayectoria profesional y enfoque práctico en cada sesión.
+
+### ✔ Formación práctica en IA Generativa
+Al finalizar el taller, los participantes serán capaces de:
+- Utilizar herramientas de IA generativa.
+- Crear, personalizar e integrar gráficos, imágenes y audios en proyectos audiovisuales.
+- Aplicar estas tecnologías en campañas de marketing digital.
+- Desarrollar prototipos funcionales como chatbots o sistemas de detección de objetos.
+
+### ✔ Enfoque técnico y creativo
+Aprenderás a:
+- Comprender los fundamentos de la Inteligencia Artificial.
+- Analizar datos, clasificar imágenes y reconocer patrones con Python y librerías especializadas.
+- Crear tecnología desde cero, combinando pensamiento lógico, creatividad y habilidades técnicas.
+
+### ✔ Metodología dinámica
+- Clases virtuales vía Zoom y presenciales en Campus Ulima.
+- Clases en vivo con interacción continua entre docente y alumno.
+- Demostraciones en vivo y simulaciones por computadora.
+- Desarrollo práctico paso a paso.
+
+### ✔ Excelencia académica
+- Plana docente de primer nivel profesional y académico.
+- Malla curricular especializada y actualizada.
+
+### ✔ Networking Ejecutivo
+Espacios diseñados para conectar con profesionales, ampliar tu red de contactos y generar oportunidades.
+
+---
+
+Una experiencia formativa práctica, actual y orientada a resultados, ideal para quienes desean integrar la Inteligencia Artificial en proyectos reales de comunicación y marketing digital.
+
+
+
+
 ## Bibliography
 
 1. Russell, S., & Norvig, P. (2010).  
