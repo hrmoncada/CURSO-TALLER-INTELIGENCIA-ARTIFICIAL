@@ -67,6 +67,7 @@ Aprenderás haciendo, no solo escuchando:
   title="Genetic Modification of the bacterial symbionts"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
+
 ## Bibliography
 
 1. Russell, S., & Norvig, P. (2010).  
